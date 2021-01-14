@@ -1,21 +1,21 @@
 # Maze-Input-and-Solver
-The program will have three classes: the class LA2Main, MazeInput, and MazeSolver. LA2Main to call methods in MazeInput and MazeSolver, MazeInput to initialize variables, and MazeSolver to draw and print the maze.
+This program creates a randomly generated maze with the size of it being user-entered. It will then try to solve it if it's possible. There will be three classes: LA2Main, MazeInput, and MazeSolver. LA2Main to call methods in MazeInput and MazeSolver, MazeInput to initialize user-entered variables for the size of the maze, and MazeSolver to draw and print the maze.
 
-Write a class LA2Main that can:\
-a) Instantiate classes MazeInput and MazeSolver.\
-b) Call proper methods from MazeInput class to initialize MazeSolver.\
-c) Call proper methods in MazeSolver to start the maze and display the maze.
+## Write a class LA2Main that can:
+1) Instantiate classes MazeInput and MazeSolver.\
+2) Call proper methods from MazeInput class to initialize MazeSolver.\
+3) Call proper methods in MazeSolver to start the maze and display the maze.
 
-Test the class by performing the following steps:\
-a) Instantiate classes MazeInput and MazeSolver.\
-b) Call a method from MazeInput to initialize Mazesolver.\
-c) Call a method to draw a maze.\
-d) Call a method to print the maze.\
-e) Call a method to check if the maze is solvable.\
-f) Call a method to print the maze with the path position if the maze is solvable.
+## Test the class by performing the following steps:
+1) Instantiate classes MazeInput and MazeSolver.\
+2) Call a method from MazeInput to initialize Mazesolver.\
+3) Call a method to draw a maze.\
+4) Call a method to print the maze.\
+5) Call a method to check if the maze is solvable.\
+6) Call a method to print the maze with the path position if the maze is solvable.
 
 
-# Example:
+## Example:
 ```
 Enter number of rows in range [5, 10]:
 1
