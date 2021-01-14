@@ -1,5 +1,5 @@
 # Maze-Input-and-Solver
-The program will have three classes: the class LA2Main, MazeInput and MazeSolver. LA2Main to call methods in MazeInput and MazeSolver, MazeInput to initialize variables, and MazeSolver to draw and print the maze.
+The program will have three classes: the class LA2Main, MazeInput, and MazeSolver. LA2Main to call methods in MazeInput and MazeSolver, MazeInput to initialize variables, and MazeSolver to draw and print the maze.
 
 Write a class LA2Main that can:\
 a) Instantiate classes MazeInput and MazeSolver.\
