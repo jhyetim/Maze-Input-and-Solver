@@ -2,16 +2,16 @@
 This program creates a randomly generated maze with the size of it being user-entered. It will then try to solve it if it's possible. There will be three classes: LA2Main, MazeInput, and MazeSolver. LA2Main to call methods in MazeInput and MazeSolver, MazeInput to initialize user-entered variables for the size of the maze, and MazeSolver to draw and print the maze.
 
 ## Write a class LA2Main that can:
-1) Instantiate classes MazeInput and MazeSolver.\
-2) Call proper methods from MazeInput class to initialize MazeSolver.\
+1) Instantiate classes MazeInput and MazeSolver.
+2) Call proper methods from MazeInput class to initialize MazeSolver.
 3) Call proper methods in MazeSolver to start the maze and display the maze.
 
 ## Test the class by performing the following steps:
-1) Instantiate classes MazeInput and MazeSolver.\
-2) Call a method from MazeInput to initialize Mazesolver.\
-3) Call a method to draw a maze.\
-4) Call a method to print the maze.\
-5) Call a method to check if the maze is solvable.\
+1) Instantiate classes MazeInput and MazeSolver.
+2) Call a method from MazeInput to initialize Mazesolver.
+3) Call a method to draw a maze.
+4) Call a method to print the maze.
+5) Call a method to check if the maze is solvable.
 6) Call a method to print the maze with the path position if the maze is solvable.
 
 
